@@ -6,6 +6,10 @@ on:
   pull_request:
     branches: [ main, develop ]
 
+# Définit les permissions minimales pour le GITHUB_TOKEN
+permissions:
+  contents: read
+
 jobs:
   lint:
     name: Lint
