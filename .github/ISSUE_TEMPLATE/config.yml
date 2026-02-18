@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ❓ Question ou Discussion
+    url: https://github.com/florentgiscard/https-github.com-florentgiscard-Gestion-Cooperative/discussions
+    about: Posez une question ou démarrez une discussion avec la communauté
+  - name: 💬 Support
+    url: https://github.com/florentgiscard/https-github.com-florentgiscard-Gestion-Cooperative/discussions
+    about: Obtenez de l'aide de la communauté
